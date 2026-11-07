@@ -1,2 +1,1 @@
-BLOQUEADO
-Programa desativado.
+ATIVO
